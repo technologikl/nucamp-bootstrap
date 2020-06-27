@@ -1,4 +1,4 @@
-body {
+body {/*element*/
     font-family: "Open Sans", sans-serif;
 }
 
@@ -14,7 +14,7 @@ header h2 {
     color: #CEC8FF;
 }
 
-.site-footer {
+.site-footer {/*class*/
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
